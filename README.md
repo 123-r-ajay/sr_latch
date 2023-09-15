@@ -1,4 +1,5 @@
 # sr_latch
+SR Latch Design and Simulation and layout project Using NMOS and PMOS in 180nm Technology with Cadence Virtuoso.
 # 1. Introduction:
 The objective of this lab experiment was to design and simulate an SR latch using NMOS (nchannel MOSFET) and PMOS (p-channel MOSFET) transistors in the 180nm technology using Cadence software. The SR latch is a fundamental circuit used in digital electronics to store and retain one bit of information. It consists of two cross-coupled inverters that latch the inputs and maintain their state until a specific input combination triggers a state change. The Cadence tool provided a platform to design and simulate the SR latch, allowing for analysis of its behavior and performance.
 
